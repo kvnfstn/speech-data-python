@@ -1,0 +1,31 @@
+# Twilio Serverless
+.twiliodeployinfo
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# python cache
+collection/functions/__pycache__
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Private JSON files
+collection/assets
+
+# vscode settings
+.vscode
+
+# venv files
+.venv
+
+# testing files
+notebook.ipynb
+collection/functions/MESSINGAROUND.py
